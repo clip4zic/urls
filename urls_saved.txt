@@ -1,5 +1,3 @@
-
-
 #cloud
 https://videos.pexels.com/video-files/856171/856171-hd_1280_720_30fps.mp4
 https://videos.pexels.com/video-files/3129769/3129769-hd_1280_720_30fps.mp4
@@ -71,8 +69,6 @@ https://videos.pexels.com/video-files/3085340/3085340-sd_426_240_30fps.mp4
 https://videos.pexels.com/video-files/4377450/4377450-sd_426_240_30fps.mp4
 https://videos.pexels.com/video-files/1966382/1966382-sd_960_506_25fps.mp4
 https://videos.pexels.com/video-files/854985/854985-sd_960_540_25fps.mp4
-
-
 #sensuality
 https://videos.pexels.com/video-files/6718231/6718231-sd_960_506_25fps.mp4
 https://videos.pexels.com/video-files/8731997/8731997-sd_960_506_25fps.mp4
@@ -123,8 +119,6 @@ https://videos.pexels.com/video-files/14608472/14608472-sd_426_240_24fps.mp4
 https://videos.pexels.com/video-files/14555206/14555206-hd_1280_720_24fps.mp4
 https://videos.pexels.com/video-files/14987980/14987980-sd_426_240_24fps.mp4
 https://videos.pexels.com/video-files/14987990/14987990-sd_426_240_24fps.mp4
-
-
 #happiness
 https://videos.pexels.com/video-files/3127074/3127074-hd_1280_720_24fps.mp4
 https://videos.pexels.com/video-files/3326928/3326928-hd_1280_720_24fps.mp4
@@ -200,8 +194,6 @@ https://videos.pexels.com/video-files/4297545/4297545-uhd_2560_1440_25fps.mp4
 https://videos.pexels.com/video-files/4080609/4080609-hd_1280_720_30fps.mp4
 https://videos.pexels.com/video-files/4832216/4832216-sd_960_540_30fps.mp4
 https://videos.pexels.com/video-files/4010133/4010133-sd_426_226_25fps.mp4
-
-
 #town
 https://videos.pexels.com/video-files/3150402/3150402-uhd_2732_1440_25fps.mp4
 https://videos.pexels.com/video-files/2495382/2495382-sd_960_540_24fps.mp4
@@ -276,8 +268,6 @@ https://videos.pexels.com/video-files/6319024/6319024-sd_426_240_25fps.mp4
 https://videos.pexels.com/video-files/7064946/7064946-uhd_2560_1440_30fps.mp4
 https://videos.pexels.com/video-files/4914221/4914221-sd_960_540_30fps.mp4
 https://videos.pexels.com/video-files/3613022/3613022-uhd_2560_1440_30fps.mp4
-
-
 #moon
 https://videos.pexels.com/video-files/854739/854739-sd_640_360_30fps.mp4
 https://videos.pexels.com/video-files/856831/856831-hd_1920_800_25fps.mp4

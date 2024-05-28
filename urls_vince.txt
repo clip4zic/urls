@@ -1,12 +1,1 @@
-
-ecrire ici les mots-clés, pour que les urls correspondantes soient ajoutées sur 'urls_vince.txt'. Mettre un hashtag avant chaque mot clé : 
-
-#dance
-https://videos.pexels.com/video-files/2022395/2022395-hd_1920_1080_30fps.mp4
-https://videos.pexels.com/video-files/2795731/2795731-uhd_2560_1440_25fps.mp4
-https://videos.pexels.com/video-files/2873755/2873755-hd_1920_1080_25fps.mp4
-https://videos.pexels.com/video-files/3127074/3127074-hd_1280_720_24fps.mp4
-https://videos.pexels.com/video-files/2035509/2035509-hd_1280_720_24fps.mp4
-https://videos.pexels.com/video-files/2675513/2675513-sd_960_540_24fps.mp4
-https://videos.pexels.com/video-files/2795748/2795748-sd_640_360_25fps.mp4
-https://videos.pexels.com/video-files/2795750/2795750-sd_426_240_25fps.mp4
+ceci est un test pour voir
